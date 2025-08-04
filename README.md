@@ -71,7 +71,7 @@ It provides:
 
 ### Backend (API Gateway + Lambda + DynamoDB)
 
-1. Create an API Gateway REST API
+1. Create an API Gateway
 2. Create Lambda functions:
    - `get_products.py`
    - `place_order.py`
