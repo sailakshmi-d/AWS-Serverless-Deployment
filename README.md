@@ -13,7 +13,8 @@ It provides:
 
 ##  Architecture
 
-<img width="731" height="400" alt="image" src="https://github.com/user-attachments/assets/2b88ac7a-375b-4658-ac04-b54f76d45bf0" />
+<img width="781" height="514" alt="image" src="https://github.com/user-attachments/assets/032a195f-a2b7-49b1-93de-6c0cf6354bc3" />
+
 
 
 
